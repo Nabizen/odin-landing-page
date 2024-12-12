@@ -179,3 +179,14 @@ body {
     border-radius: 12px;
     cursor: pointer;
 }
+
+.footer {
+    color: #E5E7EB;
+    background-color: #1F2937;
+    padding: 40px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 1;
+}
